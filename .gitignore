@@ -3,3 +3,10 @@
 .RData
 .Ruserdata
 *.Rproj
+exhibits/figures/*converted*.pdf
+writeup/*.aux
+writeup/*.bbl
+writeup/*.blg
+writeup/*.out
+writeup/*.log
+writeup/*.synctex.gz
