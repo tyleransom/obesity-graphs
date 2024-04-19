@@ -1,0 +1,1 @@
+These documents were accessed at https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/wweia-data-tables/ on Feb 7 2024 and Feb 20 2024.

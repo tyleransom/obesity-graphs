@@ -1,2 +1,3 @@
-# obesity-graphs
-Some publicly available data and code to produce visualizations of US obesity rates, caloric supply, dietary intake, and physical exercise.
+This repository contains publicly available data and R code to produce graphs about the US food supply, US obesity rates, and US dietary intake and physical exercise surveys.
+
+To replicate all results, simply run the file `src/main.R`.
